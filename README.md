@@ -3,8 +3,10 @@
  
 ### Hi there 👋
 
+I'm an Alien🤧
+
 - 📫 How to reach me **rox.ak275@gmail.com**
-- 	<img src="https://komarev.com/ghpvc/?username=thenuka99&label=Profile%20views&color=brightgreen&style=plastic" alt="thenuka's profile views" /> 
+- 	<img src="https://komarev.com/ghpvc/?username=ROX-AK&label=Profile%20views&color=brightgreen&style=plastic" alt="thenuka's profile views" /> 
 	<a href="https://github.com/ROX-AK?tab=followers"><img src="https://img.shields.io/github/followers/ROX-AK?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br><br><br>
 
@@ -13,9 +15,9 @@
 </p>
  
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenuka99&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ROX-AK" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ROX-AK&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ROX-AK" />
 </p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thenuka99&show_icons=true&locale=en&theme=chartreuse-dark" alt="thenuka" width="410"/>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ROX-AK&show_icons=true&locale=en&theme=chartreuse-dark" alt="ROX-AK" width="410"/>
 </p>
 
 <br><br><br><br><br><br><br><br>
@@ -68,7 +70,7 @@
 
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=thenuka99&layout=compact&theme=algolia" alt="ROX-AK" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ROX-AK&layout=compact&theme=algolia" alt="ROX-AK" />
  </a>
 </p>
 
